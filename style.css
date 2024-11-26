@@ -254,7 +254,7 @@ img {
     margin-bottom: 5px;
   }
   .player {
-    width: 45%;
+    width: 75%;
     height: 160px;
   }
   .song-info h2{
@@ -265,9 +265,9 @@ img {
   }
 }
 
-@media (max-width: 320px) {
+@media (max-width: 360px) {
   .player {
-    width: 45%;
+    width: 80%;
     height: 160px;
   }
   .song-info h2{
